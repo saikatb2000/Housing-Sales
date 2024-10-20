@@ -1,4 +1,6 @@
 # Housing-Sales
+![image](https://github.com/user-attachments/assets/a3175886-c75e-45ca-ad4f-06e337b9fd9d)
+
 Utilizing Power BI, we can harness the potential of this housing sales dataset to gain valuable insights. With its intuitive interface and powerful analytical capabilities, Power BI allows us to visualize and explore the data in a dynamic and interactive manner.
 
 First, we can create visualizations to understand the distribution of housing prices across different areas. A map visualization can show us where the highest-priced properties are located, helping us identify affluent neighborhoods and areas of high demand.
